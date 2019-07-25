@@ -575,3 +575,12 @@ h4 {
 h3 {
   margin-left: 10px;
 }
+.donations {
+  float:left;
+}
+.cstext {
+  text-align: left;
+  color:#E6C66E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
