@@ -138,7 +138,6 @@
   text-align: center;
   color:#206C79;
   font-family: 'Montserrat', sans-serif;
-
   font-size: 18px;
 }
 
@@ -468,9 +467,7 @@ h1 {
 .regtext {
   margin-left: 10px;
 }
-.donations {
-  margin-left: 10px;
-}
+
 .clickme-centered {
   width: 150px;
   text-align: center;
@@ -576,7 +573,7 @@ h3 {
   margin-left: 10px;
 }
 .donations {
-  float:left;
+  text-align: center;
 }
 .cstext {
   text-align: left;
